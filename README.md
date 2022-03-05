@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning avascript
 - 💞️ I am not currently searching for collab 
-- 📫 You can reach me through email
+- 📫 You can reach me through email havackzero@gmail.com 
 
 <!---
 LavaCubeL/LavaCubeL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
