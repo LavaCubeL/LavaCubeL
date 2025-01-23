@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LavaCubeL I am trying to learn the path to getting good at using Javascript
+- 👋 Hi, I’m @LavaCubeL I am trying to learn the path to getting good at using Javascript and other Languages
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 - 💞️ I am not currently searching for collab 
 - 📫 You can reach me through email havackzero@gmail.com 
 
