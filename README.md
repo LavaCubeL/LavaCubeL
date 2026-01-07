@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LavaCubeL I am trying to learn the path to getting good at using Java and other languages
+- 👋 Hello, I am trying to learn the path to getting good at using Java and other languages
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning Java
 - 💞️ I am not currently searching for collab 
